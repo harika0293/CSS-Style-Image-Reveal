@@ -1,12 +1,13 @@
-# cool-css-style-image-reveal
+# Static Website
+Download this Project and open with Live Server
 
-This is a  simple css trick used to reveal background content using animation
+## Technologies used
 
-# technologies used
-* HTML CSS
+* HTML
+* CSS
 * JavaScript
 
+# Enjoy !!
 
 
-If you don't want to type the css you can always use reveal js library
 
